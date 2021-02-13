@@ -1,22 +1,25 @@
 # Welcome frontier explorers!
 
-This repo will be update with current Beta-Testing on Narwallets
+This repo contains instructions and links to current Beta-Testing on Narwallets
 
 ## Rewards
 
-* What are the rewards?
- ** NEP-141 tokens will be awarded, at our sole discretion but based on collaboration, participation, ideas, design, bug reporting, and PR's
+* Are there rewards?
+  * Yes. NEP-141 tokens will be awarded, at our sole discretion but based on collaboration, participation, ideas, design, bug reporting, and PR's
+  
 * When?
- ** After the beta-test period, during mainnet launch.
+  * After the beta-test period, during mainnet launch.
+  
 * What kind of NEP-141 tokens? 
- ** Governance tokens for the DApps
-* What will be the value of the NEP-141 tokens? 
- ** It's unknown. It depends on the final tokenomics, the success of each project, and the future demand of the tokens.
+  * Governance tokens for the DApps
+  
+* What will be the value of those NEP-141 tokens? 
+  * It's unknown. It depends on the project tokenomics, the success of each project, and the future demand of the tokens.
 
 ## How to Participate
 
 * You need to be able to `git clone` a repository to operate with the latest version (unstable)
-* You need to keep the repo updated with the latest version via `git pull`
+* You need to `git pull` the repo before testing to work with the latest version
 * This is beta software. You're operating with no guarantees. 
 
 ## Installing the Software
@@ -24,7 +27,7 @@ This repo will be update with current Beta-Testing on Narwallets
 We're developing additions to Narwallets' chrome-extension at the same time we develop DAO and DApps. It's common for fixes to affect both codebases. 
 To be able to test the latest version of the software, you need to install Narwallets' chrome-extension **in developer mode**
 
-### Step 1
+#### Step 1
 
 * git clone the Narwallets-chrome-extension from the command line
 
@@ -32,7 +35,7 @@ To be able to test the latest version of the software, you need to install Narwa
 > git clone https://github.com/Narwallets/narwallets-extension
 ```
 
-### Step 2
+#### Step 2
 
 * Open the chrome web browser
 * Select the 3-point menu [⋮] on the top-right, then "More Tools/Extensions"
@@ -41,7 +44,7 @@ To be able to test the latest version of the software, you need to install Narwa
 * Navigate to the dir where you cloned `narwallets-extension` on Step 1
 * select the dir: `narwallets-extension\extension`
 
-### Step 3
+#### Step 3
 
 * Click the extensions icon [🧩] in chrome (top rigth)
 * Click the pin for Narwallets [🖈] 
@@ -49,7 +52,7 @@ To be able to test the latest version of the software, you need to install Narwa
 
 ## Keeping the Software updated
 
-* Before testing or whenever fixes are announced on [Narwallet's Discord](https://discord.com/invite/tG4XJzRtdQ), remember to update your repository:
+* Before testing or whenever fixes are announced on [Narwallets' discord](https://discord.com/invite/tG4XJzRtdQ), remember to update your repository:
 ```
 > cd narwallets-extension
 > git pull
@@ -57,12 +60,14 @@ To be able to test the latest version of the software, you need to install Narwa
 
 ## Currently Running Beta Tests
 
-* Meta Staking Pool
+### Meta Staking Pool
 
-Do you want to be part of the first big DAO on NEAR?. Join now the [META-POOL BETA TEST](https://github.com/Narwallets/meta-pool/blob/master/docs/beta-test.md)
+Do you want to be part of the first big DAO on NEAR?
 
-## Future 
+Join now the [META-POOL BETA TEST](https://github.com/Narwallets/meta-pool/blob/master/docs/beta-test.md) now!
 
-* USDNEAR Stablecoin
+## Future Beta Tests
+
+### USDNEAR Stablecoin
 
 
