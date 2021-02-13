@@ -5,7 +5,7 @@ This repo contains instructions and links to current Beta-Testing on Narwallets
 ## Rewards
 
 * Are there rewards?
-  * Yes. NEP-141 tokens will be awarded, at our sole discretion but based on collaboration, participation, ideas, design, bug reporting, and PR's
+  * Yes. NEP-141 tokens will be awarded, at our sole discretion but based on collaboration, participation, ideas, design, bug reporting, and good PR's
   
 * When?
   * After the beta-test period, during mainnet launch.
