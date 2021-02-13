@@ -64,10 +64,15 @@ To be able to test the latest version of the software, you need to install Narwa
 
 Do you want to be part of the first big DAO on NEAR?
 
-Join now the [META-POOL BETA TEST](https://github.com/Narwallets/meta-pool/blob/master/docs/beta-test.md) now!
+Join the [META-POOL BETA TEST](https://github.com/Narwallets/meta-pool/blob/master/docs/beta-test.md) now!
 
 ## Future Beta Tests
 
 ### USDNEAR Stablecoin
 
+Builds on the Meta-Pool to create the first NEAR Stablecoin.
+MVP created during the ETHDenver Hackathon.
+https://devfolio.co/submissions/usdn-b42e
 
+Alpha-hosted [here](https://www.narwallets.com/dapp/testnet/usdnear). 
+Not ready yet. Comming soon.
