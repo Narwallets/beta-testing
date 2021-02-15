@@ -4,8 +4,8 @@ This repo contains instructions and links to current Beta-Testing on Narwallets
 
 ## Rewards
 
-* Are there rewards?
-  * Yes. NEP-141 tokens will be awarded, at our sole discretion but based on collaboration, participation, ideas, design, bug reporting, and good PR's
+* Are there rewards? I was told there would be rewards.
+  * Yes. NEP-141 tokens will be awarded, at our sole discretion but based on collaboration, participation, ideas, design, bug reporting, and good PR's. Maybe there is a Swingline Red Stapler Narwallets NFT for outstanding collaboration.
   
 * When?
   * After the beta-test period, during mainnet launch.
@@ -38,7 +38,7 @@ To be able to test the latest version of the software, you need to install Narwa
 #### Step 2
 
 * Open the chrome web browser
-* Select the 3-point menu [⋮] on the top-right, then "More Tools/Extensions"
+* Select the 3-point menu [ ⋮ ] on the top-right, then "More Tools/Extensions"
 * Activate **Developer Mode** (top right)
 * Click on **[Load Unpacked]** (top left)
 * Navigate to the dir where you cloned `narwallets-extension` on Step 1
@@ -65,14 +65,3 @@ To be able to test the latest version of the software, you need to install Narwa
 Do you want to be part of the first big DAO on NEAR?
 
 Join the [META-POOL BETA TEST](https://github.com/Narwallets/meta-pool/blob/master/docs/beta-test.md) now!
-
-## Future Beta Tests
-
-### USDNEAR Stablecoin
-
-Builds on the Meta-Pool to create the first NEAR Stablecoin.
-MVP created during the ETHDenver Hackathon.
-https://devfolio.co/submissions/usdn-b42e
-
-Alpha-hosted [here](https://www.narwallets.com/dapp/testnet/usdnear). 
-Not ready yet. Comming soon.
