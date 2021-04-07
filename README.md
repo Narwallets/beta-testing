@@ -27,6 +27,8 @@ This repo contains instructions and links to current Beta-Testing on Narwallets
 We're developing additions to Narwallets' chrome-extension at the same time we develop DAO and DApps. It's common for fixes to affect both codebases. 
 To be able to test the latest version of the software, you need to install Narwallets' chrome-extension **in developer mode**
 
+PS Apr 2021: The webApps are now **multi-wallet**, you can use NEAR Web Wallet or Narwallets to operate them.
+
 #### Step 1
 
 * git clone the Narwallets-chrome-extension from the command line
